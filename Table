@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>First Gen Pokemon Chart</title>
+</head>
+<h1>First Gen Pokemon Chart</h1>
+<body>
+	<table border="1">
+		<tr><th>Image</th>
+		<th>Name</th>
+		<th>Type</th>
+		<th>Evolves Into</th>
+	</tr>		
+	<tr>
+		<td><img src="Bulbasaur.png"></td>
+		<td>Bulbasaur</td>
+		<td>Grass/Poison</td>
+		<td><a href="https://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pok%C3%A9mon)">Ivysaur</a></td>
+		</tr>
+		<tr>
+		<td><img src="Charmander.png"></td>
+		<td>Charmander</td>
+		<td>Fire</td>
+		<td><a href="https://bulbapedia.bulbagarden.net/wiki/Charmeleon_(Pok%C3%A9mon)">Charmeleon</a></td>	
+		</tr>
+		<tr>
+			<td><img src="Squirtle.png"></td>
+			<td>Squirtle</td>
+			<td>Water</td>
+			<td><a href=https://bulbapedia.bulbagarden.net/wiki/Wartortle_(Pok%C3%A9mon)">Wartortle</a></td>
+		</tr>
+	</table>
+
+</body>
+</html>
